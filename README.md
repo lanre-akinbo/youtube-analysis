@@ -82,7 +82,7 @@ This project provides a comprehensive analysis of YouTube data, specifically foc
 
 1. Data Collection: Use the provided code to collect YouTube data for your preferred channels or topics of interest. Replace the channel IDs and query parameters as needed.
 
-2. Data Analysis: Explore the Jupyter notebooks in the `analysis` directory to conduct your data analysis. The notebooks cover various aspects such as exploratory data analysis (EDA), sentiment analysis and machine learning modeling. Modify and adapt these notebooks to suit your specific analysis requirements.
+2. Data Analysis: Explore the Jupyter notebook in the project directory to conduct your data analysis. The notebooks cover various aspects such as exploratory data analysis (EDA), sentiment analysis and machine learning modeling. Modify and adapt these notebooks to suit your specific analysis requirements.
 
 3. Extract Insights: Analyze the results and insights obtained from your data analysis. Use these insights to make data-driven decisions for content creation or any other relevant purposes.
 
